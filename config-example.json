@@ -1,0 +1,4 @@
+{
+  "requestURL": "http://10.100.100.100:8080/user/friend?name=name&surname=sur",
+  "bombardiersAmount": 100
+}
